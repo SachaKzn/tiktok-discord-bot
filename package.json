@@ -1,0 +1,13 @@
+{
+  "name": "tiktok-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that sends TikTok URLs to N8N for analysis",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "axios": "^1.6.0"
+  }
+}
